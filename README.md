@@ -1,3 +1,1 @@
-# Gitlab Flow
-
-New version
+# Gitlab Flow - Hello
